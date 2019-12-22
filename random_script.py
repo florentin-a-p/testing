@@ -26,3 +26,4 @@ some_var2 = 4
 some_sum_var = some_var1 + some_var2
 some_sub_var = some_var1 - some_var2
 
+print("shit happens, sith shouldn't happen")
